@@ -2,7 +2,7 @@
 Hello! Welcome to Project Hermes. It is a open source project about shuttles being able to send data from airport hotel shuttles to their complient hotels. It sends live data of the number of passengers on the shuttle, and a live map of where the shuttle is. I am using [Electron](https://www.electronjs.org), [React](https://reactjs.org), with [Mapbox API](https://www.mapbox.com). This project is still in unsuable development. The earliest alpha release is planned to release on August 10th 2022.
 
 ## Current Mockup
-![Hermes Homepage Mockup](https://github.com/Ddundee/Hermes/blob/main/hermes_homepage_mockup.png)
+![Hermes Homepage Mockup](https://github.com/Ddundee/Hermes/blob/main/hermes_mockup.png)
 
 ## License
 MIT License
